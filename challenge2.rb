@@ -10,7 +10,7 @@
 
 # strings = ["string", "string", etc]
 # strings.each do |string|
-#   puts string.downcase
+#   puts strings with a method that will make all letters lowercase
 # end
 
 # Final Solution
